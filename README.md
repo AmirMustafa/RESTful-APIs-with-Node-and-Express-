@@ -8,5 +8,8 @@ If you need to clear Node API concept follow go through below link written by me
 
 https://medium.com/@amirmustafaofficial/restful-apis-restful-services-with-node-js-and-express-dependency-d095c17221b1
 
+Screenshots:
+<a href='https://medium.com/@amirmustafaofficial/restful-apis-restful-services-with-node-js-and-express-dependency-d095c17221b1'>
 ![Screenshot of NodeJS REST API](https://user-images.githubusercontent.com/15896579/52966999-8a681c80-33ca-11e9-8042-a087fac0765f.png?raw=true "Screenshot of NodeJS REST API")
+</a>
 <br/><br/><br/>
